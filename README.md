@@ -21,7 +21,7 @@ A beautiful, interactive website featuring:
 
 ## Files
 - `index.html` - Main website file
-- `ytdl.canehill.info - Laufey - From The Start (Official Music Video) (320 KBps).mp3` - Background music file
+- `background-music.mp3` - Background music file
 
 ## Hosting
 This website is designed to be hosted on GitHub Pages for easy access and sharing. 
